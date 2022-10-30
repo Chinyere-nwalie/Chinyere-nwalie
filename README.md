@@ -1,8 +1,7 @@
 -  Hi, I’m @Chinyere-nwalie
 -  I’m interested in being proficient in technology
-- 🌱 I’m currently learning backend alongside cloud engineering
+-  I’m currently learning backend alongside cloud engineering
 -  I’m looking to collaborate on internships
-- 📫 How to reach me email nwaliechinyerejessica@gmail.com
 
 <!---
 Chinyere-nwalie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
