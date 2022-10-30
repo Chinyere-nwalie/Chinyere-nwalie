@@ -1,5 +1,5 @@
 -  Hi, I’m Chinyere-nwalie.🙋🏽‍♀️.
--  I’m a passionate tech enthusiast emerging in being technology proficient.🌱🧩.
+-  I’m a passionate tech enthusiast emerging in being technology proficient.👩🏽‍💻🧩.
 -  I’m currently honing python skills to excel firstly in backend development and cloud engineering.🎯.
 -  I’m looking to collaborate on inculcative projects!😊
 <!---
