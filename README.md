@@ -1,5 +1,4 @@
--  Hi, I’m Chinyere-nwalie
--  I’m a passionate tech enthusiast emerging in being technology proficient.
--  I’m  honing a skills in HTML, CSS, Javascript, Python to excel in software development and cloud computing🎯
--  I’m an open source enthusiast, looking to contribute in open source projects.
--  I love to explore and participate in Hackathons, build projects🛠
+-  I am passionate about tech and on the journey of becoming an intermediate.
+-  I am honing skills in HTML, CSS, Javascript, and Python to excel in software development and cloud computing🎯
+-  I am an open-source enthusiast, looking to contribute to open-source projects.
+-  I love to explore and participate in Hackathons, and build projects🛠
