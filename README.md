@@ -1,5 +1,4 @@
-### Hi there, I am Chinyere!:grinning:
-
+### Hi there, I am Chinyere!😀👋
 
 I am passionate about Cloud and Networking Engineering ☁️ 🌐 <br/>
 My preferred Cloud platforms are AWS & GCP 💭 <br/>
